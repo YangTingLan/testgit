@@ -9,3 +9,4 @@ dev添加内容之后
 8888888
 >>>>>>> fenzhi1
 aaaaaaaaaa
+git安装和使用
